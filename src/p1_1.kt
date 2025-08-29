@@ -17,7 +17,4 @@ fun main(){
     println("long value = $g")
     println("short value = $h")
     println("byte value = $i")
-
-
-
 }
